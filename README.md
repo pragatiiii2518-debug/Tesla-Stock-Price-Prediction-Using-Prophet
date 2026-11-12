@@ -1,3 +1,4 @@
+Tesla Stock Price Forecast Banner.png
 # Tesla Stock Price Forecasting with Facebook Prophet
 
 A Python time-series forecasting project that explores Tesla (TSLA) historical closing prices and builds a 30-calendar-day forecast using [Prophet](https://facebook.github.io/prophet/).
