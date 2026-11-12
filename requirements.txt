@@ -1,0 +1,1 @@
+pandas>=2.0\nyfinance>=0.2.40\nprophet>=1.1.5\nplotly>=5.20\nmatplotlib>=3.7\njupyter>=1.0\nipykernel>=6.0\n
